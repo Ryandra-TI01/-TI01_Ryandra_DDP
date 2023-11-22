@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T02:55:39.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1g_YwxAIgWW-bpjrRMsz" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-08T03:23:56.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Fic2uXUZYoc8-Vc196jb" version="22.0.8" type="github" pages="2">
   <diagram name="Salinan Page-1" id="OErTkVTzFhlqzerNKKcr">
     <mxGraphModel dx="1257" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3OZRFm7UazzrMlj3fCfI-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="3OZRFm7UazzrMlj3fCfI-1" source="3OZRFm7UazzrMlj3fCfI-2" target="3OZRFm7UazzrMlj3fCfI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KKvNg4kEBM0e9Uts69Ml-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="3OZRFm7UazzrMlj3fCfI-1" source="3OZRFm7UazzrMlj3fCfI-13" target="KKvNg4kEBM0e9Uts69Ml-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3OZRFm7UazzrMlj3fCfI-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;output &lt;br&gt;print&amp;nbsp;&lt;br&gt;1.nama kendaraan : (hasil input)&lt;br&gt;2.jenis bensin : (hasil input)&lt;br&gt;3.kota yang dituju: (hasil input)&lt;br&gt;4.pemakain bensin : (hasil proses)&lt;br&gt;5.total harga harga bensin : (hasil proses)&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="3OZRFm7UazzrMlj3fCfI-1">
@@ -135,6 +138,9 @@
         <mxCell id="u5q74EIJYps9vgb-d6Vu-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.478;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="3OZRFm7UazzrMlj3fCfI-1" source="u5q74EIJYps9vgb-d6Vu-19" target="3OZRFm7UazzrMlj3fCfI-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KKvNg4kEBM0e9Uts69Ml-0" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;" vertex="1" parent="3OZRFm7UazzrMlj3fCfI-1">
+          <mxGeometry x="335" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -153,6 +159,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wdM5_nX6WWyWjxW_WNBJ-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="wdM5_nX6WWyWjxW_WNBJ-1" source="wdM5_nX6WWyWjxW_WNBJ-2" target="wdM5_nX6WWyWjxW_WNBJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fHMtdJHbwtCM5Qzp_3_Y-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="wdM5_nX6WWyWjxW_WNBJ-1" source="wdM5_nX6WWyWjxW_WNBJ-5" target="fHMtdJHbwtCM5Qzp_3_Y-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wdM5_nX6WWyWjxW_WNBJ-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;output &lt;br&gt;print&amp;nbsp;&lt;br&gt;1.nama pembeli: (hasil input)&lt;br&gt;2.no hp pembeli : (hasil input)&lt;br&gt;3.menu yang dipesan : (hasil proses)&lt;br&gt;4.jumlah pesanan : (hasil input)&lt;br&gt;5.harga yang harus dibayarkan : (hasil proses)&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="wdM5_nX6WWyWjxW_WNBJ-1">
@@ -261,6 +270,9 @@
         </mxCell>
         <mxCell id="fHMtdJHbwtCM5Qzp_3_Y-3" value="masukan jumlah pesanan" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="wdM5_nX6WWyWjxW_WNBJ-1">
           <mxGeometry x="322.5" y="710" width="127.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fHMtdJHbwtCM5Qzp_3_Y-8" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=50;" vertex="1" parent="wdM5_nX6WWyWjxW_WNBJ-1">
+          <mxGeometry x="330" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
